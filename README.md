@@ -142,40 +142,34 @@ Exemplo de corpo para o `POST`:
 
 Requisição `GET` em `localhost:8080/api/pets`, que retornou **200 OK** com a lista dos pets cadastrados:
 
-![Postman - GET retornando a lista de pets](docs/images/01-postman-get.png)
-<img width="1261" height="539" alt="Captura de tela 2026-11-19 160044" src="https://github.com/user-attachments/assets/28c39b15-cb03-403d-b6d5-cf79e73a3ed3" />
+<img width="800"  alt="Captura de tela 2026-11-19 160044" src="https://github.com/user-attachments/assets/28c39b15-cb03-403d-b6d5-cf79e73a3ed3" />
 
 
 Corpo (JSON) utilizado nos testes:
 
-![Postman - corpo da requisição em JSON](docs/images/02-postman-body.png)
-<img width="1270" height="735" alt="Captura de tela 2026-11-19 160240" src="https://github.com/user-attachments/assets/4f91cb10-779b-4da8-8105-dc6be868e382" />
+<img width="800"  alt="Captura de tela 2026-11-19 160240" src="https://github.com/user-attachments/assets/4f91cb10-779b-4da8-8105-dc6be868e382" />
 
 
 ## 🖥️ Testes no Front-end
 
 Formulário de cadastro de um novo pet:
 
-![Formulário de cadastro - dados do pet](docs/images/03-formulario-1.png)
-<img width="726" height="801" alt="Captura de tela 2026-11-19 161348" src="https://github.com/user-attachments/assets/3849c70b-a147-45d9-9604-b81b775a7c0b" />
+<img width="800"  alt="Captura de tela 2026-11-19 161348" src="https://github.com/user-attachments/assets/3849c70b-a147-45d9-9604-b81b775a7c0b" />
 
 
 Continuação do formulário, com porte, personalidade, URL da foto e disponibilidade:
 
-![Formulário de cadastro - campos finais e botão Salvar](docs/images/04-formulario-2.png)
-<img width="721" height="796" alt="Captura de tela 2026-11-19 161359" src="https://github.com/user-attachments/assets/d58de084-2e09-481e-93dd-cb1f4df4e1e2" />
+<img width="800"  alt="Captura de tela 2026-11-19 161359" src="https://github.com/user-attachments/assets/d58de084-2e09-481e-93dd-cb1f4df4e1e2" />
 
 
 Pets cadastrados exibidos em cards:
 
-![Cards dos pets cadastrados](docs/images/05-cards.png)
-<img width="869" height="801" alt="Captura de tela 2026-11-19 161442" src="https://github.com/user-attachments/assets/5b360470-0f11-4502-9cf9-f9bcd0b92e50" />
+<img width="800" alt="Captura de tela 2026-11-19 161442" src="https://github.com/user-attachments/assets/5b360470-0f11-4502-9cf9-f9bcd0b92e50" />
 
 
 Tela inicial do Pet Mania, com a lista "Nossos amiguinhos":
 
-![Tela inicial do Pet Mania](docs/images/06-tela-inicial.png)
-<img width="1892" height="871" alt="Captura de tela 2026-11-19 161459" src="https://github.com/user-attachments/assets/00f2f8c2-3ddc-4fc1-91cb-c2673425863a" />
+<img width="800"  alt="Captura de tela 2026-11-19 161459" src="https://github.com/user-attachments/assets/00f2f8c2-3ddc-4fc1-91cb-c2673425863a" />
 
 
 ## 👨‍💻 Autor: Lucas Vieira Santos
